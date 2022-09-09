@@ -1,0 +1,23 @@
+button {
+    padding: 20px;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+button:active {
+    background-color: rgb(218, 115, 115);
+    color: white;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    background-color: orangered;
+    width: 400px;
+    margin: auto; /* Centralizando uma div */
+}
